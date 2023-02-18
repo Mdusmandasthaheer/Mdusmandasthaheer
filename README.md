@@ -32,9 +32,13 @@
 
 - 🌱 I’m currently learning **ejpt v2 certification course and cyber security**
 
-- 💬 Ask me about **cyber security , cyber forensics andCTFs**
+- 💬 Ask me about **Regarding cyber security ,cyber awareness, cyber forensics and CTFs**
 
 - 📫 How to reach me **protecteduser77@outlook.com**
+
+- 📄 Know about my experiences [https://1drv.ms/b/s!AvNq9moFDFokgV8nSMIiBG_G_ggA?e=lZkxN1](https://1drv.ms/b/s!AvNq9moFDFokgV8nSMIiBG_G_ggA?e=lZkxN1)
+
+- ⚡ Fun fact **love to play CTF , Travel , science fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
