@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lansweeper.com/wp-content/uploads/2020/11/IT-Governance-Cyber-Security.gif.webp)
+![MasterHead](https://www.lansweeper.com/wp-content/uploads/2020/11/IT-Governance-Cyber-Security.gif.webp)
 ### Hi👋, I'm Mohamed usman dasthaheer 
 
 <!--
