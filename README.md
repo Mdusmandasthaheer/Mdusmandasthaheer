@@ -1,4 +1,4 @@
-![MasterHead](https://www.duocircle.com/wp-content/uploads/2022/03/cyber-security-threat-protection.jpg)
+
 ### Hi👋, I'm Mohamed usman dasthaheer 
 
 <img align="right" alt="Coding" width="400" src="https://www.duocircle.com/wp-content/uploads/2022/03/cyber-security-threat-protection.jpg">
