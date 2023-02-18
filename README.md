@@ -1,11 +1,7 @@
 ![MasterHead](https://www.duocircle.com/wp-content/uploads/2022/03/cyber-security-threat-protection.jpg)
 ### Hi👋, I'm Mohamed usman dasthaheer 
 
-<!--
-**Mdusmandasthaheer/Mdusmandasthaheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<img align="right" alt="Coding" width="400" src="https://www.duocircle.com/wp-content/uploads/2022/03/cyber-security-threat-protection.jpg">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
