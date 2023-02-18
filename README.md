@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/embed/RDZo7znAdn2u7sAcWH)
+![MasterHead](https://www.duocircle.com/wp-content/uploads/2022/03/cyber-security-threat-protection.jpg)
 ### Hi👋, I'm Mohamed usman dasthaheer 
 
 <!--
