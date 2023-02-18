@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/embed/RDZo7znAdn2u7sAcWH")
+![MasterHead](https://giphy.com/embed/RDZo7znAdn2u7sAcWH)
 ### Hi👋, I'm Mohamed usman dasthaheer 
 
 <!--
